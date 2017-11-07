@@ -1,2 +1,2 @@
 # Yankes
-Informasi layanan kesehatan terpadu
+Informasi layanan kesehatan terpadu.
