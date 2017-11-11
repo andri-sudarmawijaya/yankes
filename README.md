@@ -1,2 +1,2 @@
 # Yankes
-Informasi layanan kesehatan terpadu.
+Sistem informasi layanan kesehatan terpadu.
