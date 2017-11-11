@@ -1,0 +1,23 @@
+{
+  "description": "Yankes core application",
+  "name": "bantenprov/yankes",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/yankes",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/yankes,",
+    "issues": "https://github.com/bantenprov/yankes/issues",
+    "wiki": "https://github.com/bantenprov/yankes/wiki"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/laravel": "5.4"
+  }
+}
